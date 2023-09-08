@@ -1,0 +1,99 @@
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "BoP-db-UEz"; */
+"BoP-db-UEz.placeholder" = "日期";
+
+/* Class = "UITabBarItem"; title = "Trips"; ObjectID = "C3a-VW-gBI"; */
+"C3a-VW-gBI.title" = "旅行";
+
+/* Class = "UILabel"; text = "Travel Record"; ObjectID = "FG5-e7-bIQ"; */
+"FG5-e7-bIQ.text" = "旅行记录";
+
+/* Class = "UINavigationItem"; title = "Add a New Trip"; ObjectID = "J65-TY-B8i"; */
+"J65-TY-B8i.title" = "添加新旅行";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "KoY-EN-H6h"; */
+"KoY-EN-H6h.placeholder" = "密码";
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "PNm-KD-3Hp"; */
+"PNm-KD-3Hp.configuration.title" = "注册";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PNm-KD-3Hp"; */
+"PNm-KD-3Hp.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Photos"; ObjectID = "QAf-xC-jmQ"; */
+"QAf-xC-jmQ.title" = "照片";
+
+/* Class = "UILabel"; text = "Place"; ObjectID = "RL6-Lq-Ap2"; */
+"RL6-Lq-Ap2.text" = "地点";
+
+/* Class = "UIButton"; configuration.title = "delMark"; ObjectID = "T9f-oh-8Q7"; */
+"T9f-oh-8Q7.configuration.title" = "删除标记";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T9f-oh-8Q7"; */
+"T9f-oh-8Q7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Describe your trip (optional)"; ObjectID = "ToY-0H-q5O"; */
+"ToY-0H-q5O.text" = "描述（选填）";
+
+/* Class = "UIButton"; configuration.title = "addMark"; ObjectID = "W3a-BH-aFb"; */
+"W3a-BH-aFb.configuration.title" = "添加标记";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "W3a-BH-aFb"; */
+"W3a-BH-aFb.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dn3-Cg-TQ4"; */
+"dn3-Cg-TQ4.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "dy5-KD-q2q"; */
+"dy5-KD-q2q.configuration.title" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dy5-KD-q2q"; */
+"dy5-KD-q2q.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Place"; ObjectID = "e05-Hx-pCs"; */
+"e05-Hx-pCs.placeholder" = "地点";
+
+/* Class = "UIButton"; configuration.title = "-"; ObjectID = "gUr-hG-5ak"; */
+"gUr-hG-5ak.configuration.title" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gUr-hG-5ak"; */
+"gUr-hG-5ak.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Description"; ObjectID = "iln-xH-N0q"; */
+"iln-xH-N0q.title" = "记录";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "jIy-gv-Czz"; */
+"jIy-gv-Czz.title" = "地图";
+
+/* Class = "UINavigationItem"; title = "Select Photos"; ObjectID = "jnj-mk-yJU"; */
+"jnj-mk-yJU.title" = "选择照片";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "kbe-es-WjV"; */
+"kbe-es-WjV.text" = "Detail";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "l96-Ty-7ZG"; */
+"l96-Ty-7ZG.text" = "邮箱";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "o7h-OY-cAg"; */
+"o7h-OY-cAg.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o7h-OY-cAg"; */
+"o7h-OY-cAg.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Trips"; ObjectID = "oVu-m8-q4k"; */
+"oVu-m8-q4k.title" = "旅行";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "qsH-TY-YJ7"; */
+"qsH-TY-YJ7.text" = "标题";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "qzd-HL-S2r"; */
+"qzd-HL-S2r.placeholder" = "邮箱";
+
+/* Class = "UITabBarItem"; title = "Description"; ObjectID = "uSL-cc-Vg2"; */
+"uSL-cc-Vg2.title" = "描述";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "z8K-p4-rE5"; */
+"z8K-p4-rE5.text" = "日期";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "zA5-7c-314"; */
+"zA5-7c-314.text" = "密码";
